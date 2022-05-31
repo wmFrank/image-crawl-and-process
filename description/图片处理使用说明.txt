@@ -1,0 +1,6 @@
+需要处理的图片必须改名为star.jpg,必须放到包含源程序picture_process.cpp的目录下。
+
+然后运行程序，得到
+star1.jpg:模糊化后的图片
+star2.jpg:灰度化后的图片
+star3.jpg:二值化后的图片
